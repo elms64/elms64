@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **swift and macOS projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/elms64](https://github.com/elms64)
+- 👨‍💻 All of my projects are available at [github.com/elms64](https://github.com/elms64)
 
 - 💬 Ask me about **ASP.NET, Unreal Engine and Swift**
 
 - 📫 How to reach me **james_elms@live.co.uk**
 
-- 📄 Know about my experiences [https://profile.indeed.com/p/jamese-y8wm86d](https://profile.indeed.com/p/jamese-y8wm86d)
+- 📄 Know about my experiences [indeed.com](https://profile.indeed.com/p/jamese-y8wm86d)
 
 - ⚡ Fun fact **I am keen to see developers create more content for macOS and Arm architecture**
 
@@ -27,8 +27,8 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/james-elms-52661188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/james-elms-52661188/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22012098/elms64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22012098/elms64" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/james-elms-52661188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/james-elms-52661188/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22012098/elms64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22012098/elms64" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
